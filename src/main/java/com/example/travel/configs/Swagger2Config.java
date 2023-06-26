@@ -49,7 +49,7 @@ public class Swagger2Config implements WebMvcConfigurer {
                 .version("1.1.0")
                 .license("Apache 2.0")
                 .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0.html")
-                .contact(new Contact("Dung", "...", "lydungyd@gmail.com"))
+                .contact(new Contact("Nam Anh", "...", "noname@gmail.com"))
                 .build();
     }
 }
